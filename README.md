@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harman-design
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking for oppurtujities to hone my technical skills
+- 💞️ I’m looking for oppurtunities to hone my technical skills
   
 
 <!---
